@@ -65,6 +65,7 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
+```
 module Gate_1 (
     input  wire a,     // Input A
     input  wire b,     // Input B
@@ -86,6 +87,7 @@ module Gate_1 (
     assign xnor_out = ~(a ^ b);   // XNOR gate
 
 endmodule
+```
 
 
 
