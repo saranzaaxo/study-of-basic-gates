@@ -95,17 +95,11 @@ endmodule
  RegisterNumber: 25018491
  
 **Logic symbol & Truthtable**
-![WhatsApp Image 2025-11-15 at 09 55 41_ea2793f0](https://github.com/user-attachments/assets/00677520-1468-4326-9273-381bd2785009)
-
-
 **RTL realization Output:** 
-![WhatsApp Image 2025-11-15 at 09 59 28_2a30ca58](https://github.com/user-attachments/assets/0f57cd1f-32df-493a-baa5-b5d2f10feed7)
-
-
+<img width="983" height="295" alt="image" src="https://github.com/user-attachments/assets/c1665dcd-db03-42ba-be41-769b852f928b" />
 
 **RTL**
-<img width="1920" height="1080" alt="Screenshot 2025-11-13 173617" src="https://github.com/user-attachments/assets/82579ee1-82fa-43cc-ad91-2aa3d1381f87" />
-
+<img width="910" height="546" alt="image" src="https://github.com/user-attachments/assets/94f5c2f2-56e7-489c-a8df-f85caed38dd1" />
 
 **Result:**
 thus the truth table of logic gates in quartus || usin verilog programming verified successfully
